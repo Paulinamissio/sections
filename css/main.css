@@ -13,6 +13,7 @@ html {
 img {
   width: 100%;
   display: block;
+  border: 3px;
 }
 
 div {
@@ -46,6 +47,6 @@ body {
   margin: 0;
 }
 
-.btn button {
+.btn {
   display: inline-block;
 }
