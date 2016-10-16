@@ -1,0 +1,41 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5em;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+
+}
+img {
+  width: 100%;
+  display: block;
+}
+
+div {
+  max-width: 25em;
+  display: inline-block;
+  margin: 1.5em;
+  vertical-align: middle;
+}
+
+p {
+  line-height: 1.5;
+}
+
+a {
+  background-color: #f2f2f2;
+  margin: 1.5rem;
+  border-radius: 3px;
+  padding: 0.4em 0.75em 0.5em;
+  text-align: center;
+
+}
+
+.btn {
+  margin: 1.5rem;
+  border-radius: 3px;
+  padding: 0.4em 0.75em 0.5em;
+
+}
