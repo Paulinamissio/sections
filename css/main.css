@@ -3,6 +3,7 @@ html {
   font-family: "Lato", sans-serif;
   line-height: 1.5em;
   text-align: center;
+  border: 5px;
 }
 
 *, *::before, *::after {
@@ -12,8 +13,9 @@ html {
 
 img {
   width: 100%;
+  max-width: 25em;
   display: block;
-  border: 3px;
+  border: 5px;
   text-align: left;
 }
 
@@ -24,6 +26,10 @@ div {
   margin: 1.5em;
   vertical-align: middle;
 
+}
+
+h2 {
+  text-align: left;
 }
 
 p {
@@ -40,12 +46,15 @@ a {
   border-radius: 10px;
   font-family: "Lato", sans-serif;
   color: #333;
-
 }
 
 body {
   font-family: "Lato", sans-serif;
   margin: 0;
+}
+
+ul {
+  border: 10px #666;
 }
 
 .btn {
