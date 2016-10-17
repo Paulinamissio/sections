@@ -11,12 +11,6 @@ html {
 
 }
 
-body {
-  width: 100%;
-  margin: 0;
-  border: 3px;
-}
-
 img {
   width: 100%;
   max-width: 25em;
@@ -46,7 +40,7 @@ p {
 }
 
 a {
-  margin: 1.5rem;
+  margin: 2em;
   background-color: #f2f2f2;
   padding: 1em;
   border-radius: 10px;
@@ -65,4 +59,5 @@ ul {
 
 .btn {
   display: inline-block;
+  text-align: left;
 }
