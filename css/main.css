@@ -11,6 +11,12 @@ html {
 
 }
 
+body {
+  width: 100%;
+  margin: 0;
+  border: 3px;
+}
+
 img {
   width: 100%;
   max-width: 25em;
