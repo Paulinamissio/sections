@@ -55,9 +55,12 @@ body {
 
 ul {
   border: 10px #666;
+  display: inline-block;
+  margin: 1.5rem;
+  border-radius: 4px;
+  text-decoration: none;
 }
 
 .btn {
-  display: inline-block;
   text-align: left;
 }
