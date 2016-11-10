@@ -16,6 +16,7 @@ img {
   max-width: 25em;
   display: block;
   border: 5px;
+  margin-top: 30px;
   text-align: left;
 }
 
@@ -30,6 +31,7 @@ div {
 
 h2 {
   text-align: left;
+  margin-top: -30px;
 }
 
 p {
